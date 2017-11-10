@@ -1,0 +1,12 @@
+{
+  "name":"nov10",
+  "version":"1.0.0",
+  "description": "Our node learning app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies":{
+
+  }
+}
